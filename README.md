@@ -1,0 +1,1 @@
+A novel UAV‑view geo-localization method that exploits multi-view semantic consistency as a core constraint to align cross‑view features. The method freezes a pre-trained image encoder and attaches a shallow learnable network for downstream task adaptation.
